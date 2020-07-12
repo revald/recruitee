@@ -2,7 +2,7 @@
 Setting up Selenium Java environment
 Как развернуть окружение для работы связки Java+Selenium.
 
-С картинками откройте Word document
+С картинками откройте Word document readme.docx
 
 Что нужно установить:
 Java(JDK)
